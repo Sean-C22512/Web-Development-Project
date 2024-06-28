@@ -122,7 +122,7 @@ SeansBistro/
     <li><strong>HTML</strong>: For the structure of the web pages.</li>
     <li><strong>CSS</strong>: For styling the web pages.</li>
     <li><strong>PHP</strong>: For server-side scripting and database interaction.</li>
-    <li><strong>MySQL</strong>: For database management.</li>
+    <li><strong>phpMyAdmin</strong>: For database management.</li>
 </ul>
 
 <h2 id="setup">Setup</h2>
