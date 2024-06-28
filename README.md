@@ -19,7 +19,6 @@
     <li><a href="#pages">Pages</a></li>
     <li><a href="#technologies-used">Technologies Used</a></li>
     <li><a href="#setup">Setup</a></li>
-    <li><a href="#license">License</a></li>
 </ul>
 
 <h2 id="project-structure">Project Structure</h2>
