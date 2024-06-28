@@ -57,51 +57,65 @@ SeansBistro/
 
 <h2 id="pages">Pages</h2>
 
+
 <h3>about.html</h3>
 <p>Provides information about the restaurant's history, mission, and values.</p>
 <img src="Screenshots/about.png" alt="About Page Screenshot">
 
 <h3>add_item.php</h3>
 <p>Allows admin users to add new items to the restaurant's menu. Includes a form to input item details and a PHP script to handle form submission and database insertion.</p>
+<img src="Screenshots/add_item.png" alt="Add Item Page Screenshot">
 
 <h3>admin_dashboard.html</h3>
 <p>The admin dashboard allows administrators to manage menu items and view reservations. Provides links to different administrative functions.</p>
+<img src="Screenshots/admin_dashboard.png" alt="Admin Dashboard Screenshot">
 
 <h3>contact_form.php</h3>
 <p>Contains a contact form where users can send inquiries to the restaurant. The form data is submitted to the server and stored in the database.</p>
+<img src="Screenshots/contact_form.png" alt="Contact Form Page Screenshot">
 
 <h3>create_account.php</h3>
 <p>Allows users to create a new account by providing a username, email, and password. The form data is submitted to the server and stored in the database.</p>
+<img src="Screenshots/create_account.png" alt="Create Account Page Screenshot">
 
 <h3>db_connection.php</h3>
 <p>Contains the database connection settings used by other PHP scripts to interact with the database.</p>
 
 <h3>delete_item.php</h3>
 <p>Allows admin users to delete existing menu items from the database by specifying the item's name.</p>
+<img src="Screenshots/delete_item.png" alt="Delete Item Page Screenshot">
 
 <h3>edit_menu.php</h3>
 <p>Enables admins to edit existing menu items. Fetches item details from the database and provides a form for updating them.</p>
+<img src="Screenshots/edit_menu.png" alt="Edit Menu Page Screenshot">
 
 <h3>edit_reservations.php</h3>
 <p>Allows admins to edit existing reservations. Fetches reservation details from the database and provides a form for updating them.</p>
+<img src="Screenshots/edit_reservations.png" alt="Edit Reservations Page Screenshot">
 
 <h3>enquiries.php</h3>
 <p>Displays all customer inquiries stored in the database. Fetches and lists inquiries in a tabular format.</p>
+<img src="Screenshots/enquiries.png" alt="Enquiries Page Screenshot">
 
 <h3>Restaurant.html</h3>
 <p>The homepage of the restaurant website. Includes a welcome message and links to other pages.</p>
+<img src="Screenshots/homepage.png" alt="Homepage Screenshot">
 
 <h3>login.php</h3>
 <p>Provides a login form for users to access their accounts. Validates credentials against the database.</p>
+<img src="Screenshots/login.png" alt="Login Page Screenshot">
 
 <h3>menu.php</h3>
 <p>Displays the restaurant's menu items, fetched from the database. Organized by categories with names, descriptions, and prices.</p>
+<img src="Screenshots/menu.png" alt="Menu Page Screenshot">
 
 <h3>reservation_form.php</h3>
 <p>Allows users to make reservations by providing their details and selecting a date and time. The form data is submitted to the server and stored in the database.</p>
+<img src="Screenshots/reservation_form.png" alt="Reservation Form Page Screenshot">
 
 <h3>view_reservations.php</h3>
 <p>Displays all reservations stored in the database. Fetches and lists reservations in a tabular format.</p>
+<img src="Screenshots/view_reservations.png" alt="View Reservations Page Screenshot">
 
 <h2 id="technologies-used">Technologies Used</h2>
 <ul>
