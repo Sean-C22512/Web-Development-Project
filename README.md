@@ -99,7 +99,7 @@ SeansBistro/
 
 <h3>Restaurant.html</h3>
 <p>The homepage of the restaurant website. Includes a welcome message and links to other pages.</p>
-<img src="Screenshots/homepage.png" alt="Homepage Screenshot">
+<img src="Screenshots/Restaurant.png" alt="Homepage Screenshot">
 
 <h3>login.php</h3>
 <p>Provides a login form for users to access their accounts. Validates credentials against the database.</p>
