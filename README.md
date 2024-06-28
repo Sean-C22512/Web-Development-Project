@@ -59,6 +59,7 @@ SeansBistro/
 
 <h3>about.html</h3>
 <p>Provides information about the restaurant's history, mission, and values.</p>
+<img src="screenshots/about.png" alt="About Page Screenshot">
 
 <h3>add_item.php</h3>
 <p>Allows admin users to add new items to the restaurant's menu. Includes a form to input item details and a PHP script to handle form submission and database insertion.</p>
